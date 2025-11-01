@@ -1,17 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently a student of BScs in UCP, Lahore.<br> 
+<h1 align="center">Hi 👋, I'm Sharjeel</h1>
+<h3 align="center">A programmer in process...</h3>
 
+- 🌱 I’m currently learning **C++, Assembly**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharjeelahmad7911@gmail.com) 
+- 📫 How to reach me **sharjeelahmad7911@gmail.com**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sharjeel7911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sharjeelahmad7911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelahmad7911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sharjeel-ahmad-56b5b52a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeel-ahmad-56b5b52a0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sharjeelahmad7911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharjeelahmad7911" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=sharjeelahmad7911&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
