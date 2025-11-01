@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <b>Languages & Technologies:</b>
+  <b>Languages & Technologies:</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="30" alt="Assembly logo" />
@@ -29,19 +29,14 @@
 ###
 
 <div align="left">
-  <b>Connect with me:</b>
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <a href="https://github.com/Sharjeel7911">Sharjeel7911</a>
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <a href="https://www.linkedin.com/in/sharjeel-ahmad-56b5b52a0">Sharjeel Ahmad</a>
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <a href="mailto:sharjeelahmad7911@gmail.com">Email Me</a>
+  <b>Connect with me:</b><br/>
+  <a href="https://github.com/Sharjeel7911">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sharjeel-ahmad-56b5b52a0">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sharjeelahmad7911@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" />
+  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
