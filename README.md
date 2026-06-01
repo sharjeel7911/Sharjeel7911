@@ -3,6 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A programmer in progress from Pakistan
 --------------------------------------
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__masaan__) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel7911) 
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-20232A.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/SharjeelAhmad/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharjeelahmad7911@gmail.com)
 
 
 ## 🌐 Socials:
