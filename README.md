@@ -8,6 +8,7 @@ A programmer in progress from Pakistan
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__masaan__) 
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-20232A.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/SharjeelAhmad/) 
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-%2300C030.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/SharjeelAhmad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel7911) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharjeelahmad7911@gmail.com)
 
